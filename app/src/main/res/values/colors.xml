@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#007085</color>
+    <color name="colorPrimaryDark">#007085</color>
+    <color name="colorAccent">#007085</color>
+    <color name="maemes">#AA1F26</color>
+    <color name="logo_color">#fdbb4c</color>
+
+</resources>

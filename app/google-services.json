@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71418009522",
+    "firebase_url": "https://foodsafetymanagement-11848.firebaseio.com",
+    "project_id": "foodsafetymanagement-11848",
+    "storage_bucket": "foodsafetymanagement-11848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71418009522:android:6572a3019a55ac28",
+        "android_client_info": {
+          "package_name": "com.example.fsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71418009522-5gc591pabd5ohov8a1agg8fduqare25g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fsm",
+            "certificate_hash": "469d794bb1c7227feef71450122de8fa97e7774b"
+          }
+        },
+        {
+          "client_id": "71418009522-9tpvte19t5c4p7v5ji54le99ilnj712f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcDLmSq_IM9qfml3BCousLM2xS7BnqKek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71418009522-9tpvte19t5c4p7v5ji54le99ilnj712f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
